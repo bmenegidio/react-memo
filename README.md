@@ -1,5 +1,9 @@
 # react-memo
 
+![GitHub](https://img.shields.io/github/license/bmenegidio/react-memo)
+![GitHub top language](https://img.shields.io/github/languages/top/bmenegidio/react-memo)
+![GitHub repo size](https://img.shields.io/github/repo-size/bmenegidio/react-memo)
+
 ## Motivo
 Demonstrar por meio de um app simples como otimizar um componente [react](https://react.dev/), evitando renderizações desnecessárias e dessa forma, ganhando desempenho.
 
