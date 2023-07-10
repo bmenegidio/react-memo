@@ -20,7 +20,7 @@ function App() {
 
     return (
         <div className="h-screen flex flex-col items-center justify-center">
-            <div className="h-11">
+            <div>
                 <div className="mb-5">
                     <div className="flex items-center justify-between gap-2">
                         <input type="text"
