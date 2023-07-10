@@ -1,3 +1,5 @@
+import { memo } from "react";
+
 export type technologiesProps = {
     name: string;
 }
@@ -30,4 +32,4 @@ const List = ({ technologies }: { technologies: technologiesProps[] }) => (
     </table>
 )
 
-export default List;
+export default memo(List);
