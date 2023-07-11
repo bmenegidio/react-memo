@@ -5,7 +5,9 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/bmenegidio/react-memo)
 
 ## Motivo
-Demonstrar por meio de um app simples como otimizar um componente [react](https://react.dev/), evitando renderizações desnecessárias e dessa forma, ganhando desempenho.
+Demonstrar por meio de um app simples como otimizar um componente [react](https://react.dev/), evitando renderizações desnecessárias e dessa forma, melhorar o desempenho.
+
+> Nesse outro repositório: https://github.com/bmenegidio/react-uncontrolled-input-render-optimization, resolvi um problema parecido utilizando **uncontrolled inputs**.
 
 ## O problema
 Após executar o comando `npm run dev` e acessar o seguinte endereço no browser `http://localhost:3000/`, você verá a seguinte tela:
